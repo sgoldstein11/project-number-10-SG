@@ -1,0 +1,83 @@
+.process_answers {
+    text-align: center;
+}
+
+
+
+/*#example1 {*/
+/*  border: 1px solid;*/
+/*  padding: 10px;*/
+/*  box-shadow: 5px 10px #888888;*/
+/*  background-color:#ba68c8 */
+/*}*/
+
+/*#example2 {*/
+/*  border: 1px solid;*/
+/*  padding: 10px;*/
+/*  box-shadow: 5px 10px #888888;*/
+/*}*/
+
+/*#example3 {*/
+/*  border: 1px solid;*/
+/*  padding: 10px;*/
+/*  box-shadow: 5px 10px #888888;*/
+/*}*/
+
+/*#example4 border: { */
+/*  border:1px solid;*/
+/*  padding: 10px;*/
+/*  box-shadow: 5px 10px #888888;*/
+/*}  */
+   
+
+
+/*.nav-wrapper {*/
+      
+/*    font-family: 'Raleway', sans-serif;*/
+/*    font-size: 75px;*/
+/*    letter-spacing:10px;*/
+/*    text-shadow:10px 10px 0px rgba(0 0 0 0.3);*/
+/*    background-color:#ba68c8;*/
+/*      text-align: center;*/
+/*}*/
+
+/*.grid {*/
+/*  display: grid;*/
+/*  grid-template-columns: 1fr 1fr 1fr;*/
+/*  grid-gap: 10px;*/
+ 
+    
+/*}*/
+  
+/*.section-1 {*/
+/*    background-color:#e1bee7;*/
+/*    padding-top:200px;*/
+/*    text-align:center;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    grid-column: 1 / span 2;*/
+/*    grid-row:1/ span 2;*/
+/*    box-shadow:3px 3px 3px rgba(0,0,0,0.5);*/
+/*    height:400px;*/
+     
+/*}*/
+
+/*.section-2 {*/
+/*    background-color:#7e57c2;*/
+/*    padding:5px;*/
+/*    text-align:center;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    grid-column: 3;*/
+/*    grid-row: 1 / span 2;*/
+/*     box-shadow:3px 3px 3px rgba(0,0,0,0.5);*/
+    
+/*}*/
+
+/*.section-3 {*/
+/*    background-color: #b39ddb ;*/
+/*    padding:5px;*/
+/*    text-align:center;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    grid-column: 1 / span 3;*/
+/*    grid-row: 3;*/
+/*    box-shadow:3px 3px 3px rgba(0,0,0,0.5);*/
+/*} */
