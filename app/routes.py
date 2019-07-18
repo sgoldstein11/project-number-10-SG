@@ -15,7 +15,7 @@ def results ():
         return "Please use the form <br> <a href='/younger_index'>Click here to go home!</a>"
         
     else:
-        userdata = formopener.dict_from(request.form)
+        userdata = request.form
         nickname = userdata ['nickname']
         print(userdata)
         final_results, img_url = model.final_results(userdata) 
